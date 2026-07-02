@@ -539,7 +539,8 @@ https://github.com/rahulbagaria91
 
 **LinkedIn**
 
-> Add your LinkedIn profile URL here
+https://www.linkedin.com/in/rahulbagaria91/
+
 
 ---
 
